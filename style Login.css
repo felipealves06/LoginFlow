@@ -1,6 +1,6 @@
 body {
     font-family: Arial, sans-serif;
-    background-color: azure;
+    background-color:cadetblue;
    }
    
    .container {
@@ -9,12 +9,13 @@ body {
     padding: 50px;
     background-color: #d3d3d3;
     border: 01px solid #ddd;
+    border-radius: 05%;
     box-shadow: 0 0 10px rgba(0,0,0,0.1);
    }
    
    h1 {
     text-align: center;
-    margin-bottom: 40px;
+    margin-bottom: 10px;
    }
    
    form {
@@ -31,6 +32,7 @@ body {
     height: 30px;
     margin-bottom: 20px;
     padding: 01px;
+    border-radius: 02%;
     border: 1px solid #ccc;
    }
    
@@ -54,5 +56,5 @@ body {
    
    a {
     text-decoration: none;
-    color: #4CAF50;
+    color:#3e8e41;
    }
