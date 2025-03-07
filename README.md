@@ -10,4 +10,4 @@
 
 **Bem-vindo ao LoginFlow** - Uma experiência visual de tela de login e cadastro, perfeita para inspirar desenvolvedores e designers. Este é um protótipo estático focado exclusivamente em front-end e design de interface.
 
-
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
