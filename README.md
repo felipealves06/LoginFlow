@@ -1,4 +1,4 @@
-# 🎨 **LoginFlow** - Interface de Login e Cadastro (Protótipo Não Funcional)
+# 🎨 **LoginFlow** - Interface de Login e Cadastro (Não Funcional)
 
 <div align="left">
 
