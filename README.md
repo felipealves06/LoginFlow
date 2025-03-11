@@ -8,7 +8,7 @@
 
 </div>
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="350px" max-width="350px" width="350px" align="right">
 
 **Bem-vindo ao LoginFlow** - Uma experiência visual de tela de login e cadastro, perfeita para inspirar desenvolvedores e designers. 
 
