@@ -18,17 +18,4 @@
 
 **AUTOR** :
 
-<div style="display: flex; align-items: center; gap: 30px;"> 
-  <div>
-    <p>Foco em soluções inovadoras.</p>
-    <p>🌍 <a href="https://avatars.githubusercontent.com/u/189550208?v=4"</a></p>
-  </div>
-  
-  <!-- Imagem -->
-  <img 
-    src="https://avatars.githubusercontent.com/u/189550208?v=4" 
-    width="90px" 
-    style="border-radius: 50%; border: 2px solid #3498db;" 
-    alt="Avatar"
-  />
-</div>
+Felipe Alves
