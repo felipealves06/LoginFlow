@@ -17,8 +17,8 @@
 🔄 **Atualmente está em desenvolvimento**.
 
 **AUTOR** :
-<div style="display: flex; align-items: center; gap: 30px;">
-  <!-- Texto 
+
+<div style="display: flex; align-items: center; gap: 30px;"> 
   <div>
     <p>Foco em soluções inovadoras.</p>
     <p>🌍 <a href="https://avatars.githubusercontent.com/u/189550208?v=4"</a></p>
