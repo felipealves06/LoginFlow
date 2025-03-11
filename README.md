@@ -16,12 +16,7 @@
 
 **AUTOR** :
 
-<div align="center">
-  <div style="display: flex; align-items: center;">
+<div align="left">
     <img src="https://avatars.githubusercontent.com/u/189550208?v=4" width="100px" style="border-radius: 50%; margin-right: 20px;" alt="Foto"/>
-    <div>
-      <h1>Autoro</h1>
-      <p>Seu texto aqui. Você pode colocar uma descrição, informações de contato, ou qualquer conteúdo que desejar.</p>
-    </div>
-  </div>
-</div>
+
+ </div>
