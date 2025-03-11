@@ -17,5 +17,5 @@
 🔄 **Atualmente está em desenvolvimento**.
 
 **AUTOR** :
-
+<img src="https://avatars.githubusercontent.com/u/189550208?v=4">
 Felipe Alves
