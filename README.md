@@ -18,7 +18,7 @@
 
 **AUTOR** :
    
- <img src="https://avatars.githubusercontent.com/u/189550208?v=4" width="40px" style="border-radius: 50%; margin-right: 20px;" alt="Foto"/>
+ <img src="https://avatars.githubusercontent.com/u/189550208?v=4" width="50px" style="border-radius: 50%; margin-right: 20px;" alt="Foto"/>
      
  <p>Seu texto aqui. Você pode colocar uma descrição, informações de contato, ou qualquer conteúdo que desejar.</p>
 Felipe Alves
