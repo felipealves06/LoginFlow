@@ -12,4 +12,4 @@
 
 **Bem-vindo ao LoginFlow** - Uma experiência visual de tela de login e cadastro, perfeita para inspirar desenvolvedores e designers. 
 
-**Atualmente está em desenvolvimento**.
+🔄 **Atualmente está em desenvolvimento**.
