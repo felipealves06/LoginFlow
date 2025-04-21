@@ -4,7 +4,7 @@
 
 <div align="left">
 
-**Bem-vindo ao LoginFlow** - Uma experiência visual de tela de login e cadastro.p
+**Bem-vindo ao LoginFlow** - Uma experiência visual de tela de login e cadastro.
 
 💻 **TECNOLOGIAS** :
 
