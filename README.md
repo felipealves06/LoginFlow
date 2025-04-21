@@ -13,6 +13,8 @@
 
 </div>
 
+![Linguagens mais usadas](https://img.shields.io/github/languages/top/felipealves06/loginflow)
+
 🔄 **Atualmente está em desenvolvimento**.
 
 👤 **AUTOR** : Felipe Alves
