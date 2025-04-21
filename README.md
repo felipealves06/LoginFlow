@@ -6,6 +6,9 @@
 
 **Bem-vindo ao LoginFlow** - Uma experiência visual de tela de login e cadastro.
 
+[![x](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/Felipealvesofc)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-alves-393ba733a/)
+
 ![Linguagens mais usadas](https://img.shields.io/github/languages/top/felipealves06/loginflow)
 
 <details>
